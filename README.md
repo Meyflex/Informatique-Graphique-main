@@ -1,1 +1,2 @@
-# Graphique
+# Informatique Graphique
+
