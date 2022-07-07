@@ -13,9 +13,10 @@ Le but de ce project est de realiser une modelisation du systeme solaire avec op
 * OpenGL 
 * C++
 * Visual Studio 
+* Cmake 
 
 
-<img src="https://user-images.githubusercontent.com/98128042/177772956-367dc15c-9f59-49d9-a3cc-7e843b62a356.png" width="80" height="50">  <img src="https://user-images.githubusercontent.com/98128042/177772434-40ff9358-6473-434c-ae71-cecbb85c335a.png" width="50" height="50">  <img src="https://user-images.githubusercontent.com/98128042/177772490-baa29936-1d6d-4d82-b16f-c6f53fcf7bdc.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/98128042/177772956-367dc15c-9f59-49d9-a3cc-7e843b62a356.png" width="80" height="50">  <img src="https://user-images.githubusercontent.com/98128042/177772434-40ff9358-6473-434c-ae71-cecbb85c335a.png" width="50" height="50">  <img src="https://user-images.githubusercontent.com/98128042/177772490-baa29936-1d6d-4d82-b16f-c6f53fcf7bdc.png" width="50" height="50">  <img src="https://user-images.githubusercontent.com/98128042/177780928-599e6fa0-1e9e-4e47-8b36-14604f2a9762.png" width="50" height="50">
 
 
 ## Fonctionnalité
